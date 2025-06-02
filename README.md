@@ -3,6 +3,6 @@ cry kid menu is a free cybersec menu inspired by redtiger-tools and based on dox
 
 <hr>
 <p align="center">
-  <img src="https://imgbox.com/RMGRVRSQ">
+  <img src="https://imgbox.com/RMGRVRS">
 </p>
 <hr>
